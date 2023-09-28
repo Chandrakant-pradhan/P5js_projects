@@ -1,5 +1,5 @@
 
-This repo contains various P5js projects that I did in summer break of 2023 <br />
+This repo contains various P5js projects that I did in summer break of 2023 <br/>
 
 1) Snake Game : click here to [view](https://editor.p5js.org/chandrakant_pradhan/full/QQhz9u4OB) <br/>
 A simple implementation of classic snake game in p5js <br/>
