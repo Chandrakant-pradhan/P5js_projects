@@ -1,6 +1,6 @@
 # P5js Projects - Summer 2023
 
-This repository contains various P5.js projects that I worked on during the summer break of 2023.
+This repository contains various P5.js projects that I worked on during the summer break of 2023. All thiscodes are inspired from youtube channel "coding train"
 
 ## Projects
 
